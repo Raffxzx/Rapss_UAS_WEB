@@ -1,7 +1,7 @@
-# UAS_Web2_312410423_Roufan-Awaluna-Romadhon
+# UAS_Web2_312410403_M Rafi Al Hakim
 
-- Nama : Roufan Awaluna Romadhon
-- NIM : 312410423
+- Nama : M Rafi Al Hakim
+- NIM : 312410403
 - Kelas : I241C
 
 ---
@@ -373,10 +373,6 @@ Tampilan Logout
 ![](image/screenshot9.png)
 
 ---
-
-### Link Video
-
-https://youtu.be/rofuiDZfSBo
 
 ### Link Aplikasi Website
 
